@@ -159,7 +159,7 @@ int main() {
                         printf("\nThong tin sach ID %d:\n", shelf[i].id);
                         printf("Ten sach: %s\n", shelf[i].name);
                         printf("Ten tac gia: %s\n", shelf[i].author);
-                        printf("Gia: %d $\n", shelf[i].price);
+                        printf("Gia: %d\n", shelf[i].price);
                         found = 1;
                     }
                 }
